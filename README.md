@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinothkumarsevugan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML/AI
-- 💞️ I’m looking to solve Analyse Environemntal Problems
+- 💞️ I’m looking to solve and analyse Environemntal Problems
 - 📫 Message me
